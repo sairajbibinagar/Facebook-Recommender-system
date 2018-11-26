@@ -1,1 +1,2 @@
 # Facebook-Recommender-system
+I worked on anonymized facebook user data for a week and built this recommender system. The system understands the connections among various facebook users by building a similarity matrix (list of lists). Based on the similarity score, it recommends a friend given a user. Broadly, The python concepts involved are: list of lists, User-defined functions, Exception handling, conditional loops and relational operatiors. Please find my code and the dataset in the same repository.
